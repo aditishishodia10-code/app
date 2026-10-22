@@ -1,0 +1,6 @@
+{
+  "name": "SG Transit Navigator",
+  "description": "Find connecting Singapore buses and walking directions from MRT & LRT exits with live arrival estimates, station guides, and newcomer tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
